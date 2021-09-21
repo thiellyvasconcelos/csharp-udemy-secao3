@@ -1,0 +1,15 @@
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\bin\Debug\net5.0\Exercicio_Aula33_3.exe
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\bin\Debug\net5.0\Exercicio_Aula33_3.deps.json
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\bin\Debug\net5.0\Exercicio_Aula33_3.runtimeconfig.json
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\bin\Debug\net5.0\Exercicio_Aula33_3.runtimeconfig.dev.json
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\bin\Debug\net5.0\Exercicio_Aula33_3.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\bin\Debug\net5.0\ref\Exercicio_Aula33_3.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\bin\Debug\net5.0\Exercicio_Aula33_3.pdb
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\obj\Debug\net5.0\Exercicio_Aula33_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\obj\Debug\net5.0\Exercicio_Aula33_3.AssemblyInfoInputs.cache
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\obj\Debug\net5.0\Exercicio_Aula33_3.AssemblyInfo.cs
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\obj\Debug\net5.0\Exercicio_Aula33_3.csproj.CoreCompileInputs.cache
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\obj\Debug\net5.0\Exercicio_Aula33_3.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\obj\Debug\net5.0\ref\Exercicio_Aula33_3.dll
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\obj\Debug\net5.0\Exercicio_Aula33_3.pdb
+C:\Users\thiel\OneDrive\Área de Trabalho\C# - Curso Udemy\Exercicio-Secao3\Exercicio_Aula33_3\obj\Debug\net5.0\Exercicio_Aula33_3.genruntimeconfig.cache
